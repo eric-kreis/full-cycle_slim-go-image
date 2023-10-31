@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a solution to a challenge from the FullCycle's Docker course that requires creating a Docker image and publishing it to Docker Hub.
+This project is a solution to a challenge from FullCycle's Docker course that requires creating a Docker image and publishing it to Docker Hub.
 The image should be able to run a Go application that prints "Full Cycle Rocks!!" when executed. Additionally, the size of the image should be less than 2MB.
 
 ## Requirements
